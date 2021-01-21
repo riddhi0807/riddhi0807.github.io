@@ -1,0 +1,15 @@
+body{
+    background-image: url(abstraction-geometry-abstract-design-background-hd-wallpaper-preview.jpg);
+}
+table, th, td
+ {
+    border: none;
+    color: gainsboro;
+    font-size: larger;
+  }
+  .img{
+    border-radius: 10px 10px 10px 10px;
+    border: 2px solid;
+    padding: 8px;
+    box-shadow: rgb(139, 85, 34);
+  }
